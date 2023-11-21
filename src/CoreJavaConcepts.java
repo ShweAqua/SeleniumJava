@@ -1,4 +1,6 @@
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class CoreJavaConcepts {
 	
@@ -32,6 +34,7 @@ public class CoreJavaConcepts {
 		{
 			System.out.println(s);
 		}
+		String[] arrstring= {"bjdsa","asda","sdad"}
 		
 		//in the case of array we need to use length and in arraylist we need to use size
 		ArrayList<String> a=new ArrayList<String>();
@@ -44,5 +47,10 @@ public class CoreJavaConcepts {
 		{
 			System.out.println(a.get(i));
 		}
+		
+		//Arrays are fixed-size collections of elements, while ArrayLists are dynamic and resizable collections of elements.
+		List<String> ae = Arrays.asList(arrstring);
+		
  	}	
 }
+

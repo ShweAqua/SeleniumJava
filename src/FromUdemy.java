@@ -12,7 +12,7 @@ public class FromUdemy {
 
 
 
-public static void main(String[] args) {
+public static void main(StringJava[] args) {
 
 //Invoking Browser
 

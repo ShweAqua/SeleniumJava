@@ -4,7 +4,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class MyFirstProg {
 
-	public static void main(String[] args) {
+	public static void main(StringJava[] args) {
 		// TODO Auto-generated method stub
 		//Invoking browsers
 		//ChromeDriver is class ->method ->A WebDriver implementation that controls a Chrome browser running on the local machine.It 			requires a chromedriver executable to be available in PATH.
