@@ -34,7 +34,7 @@ public class CoreJavaConcepts {
 		{
 			System.out.println(s);
 		}
-		String[] arrstring= {"bjdsa","asda","sdad"}
+		String[] arrstring= {"bjdsa","asda","sdad"};
 		
 		//in the case of array we need to use length and in arraylist we need to use size
 		ArrayList<String> a=new ArrayList<String>();
